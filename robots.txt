@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://deilania.github.io/sitemap.html.gz
+Sitemap: https://deilania.github.io/app/sitemap.html.gz
+Sitemap: https://deilania.github.io/assets/sitemap.html.gz
+Sitemap: https://deilania.github.io/css/sitemap.html.gz
+Sitemap: https://deilania.github.io/includes/sitemap.html.gz
+Sitemap: https://deilania.github.io/item/sitemap.html.gz
+Sitemap: https://deilania.github.io/src/sitemap.html.gz
